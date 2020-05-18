@@ -1,1 +1,1 @@
-Data Science for Python
+Python for Data Science
